@@ -5,10 +5,16 @@ A modern, responsive landing page showcasing a metropolitan city theme.
 Built using HTML, CSS, and JavaScript, this project demonstrates a stylish hero section with video background, animated navigation menu, and clean typography.
 
 ---
+## Demo
+
+https://jakata-city-video-landing-page.vercel.app
+
+---
 
 ## 📸 Preview
 ![Screenshot Preview](assets/img/screenshot.png)
 
+---
 
 ## ✨ Features
 
