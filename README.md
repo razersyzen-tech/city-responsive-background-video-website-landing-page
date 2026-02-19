@@ -1,10 +1,28 @@
-\# City Landing Page
-
-
+# City Landing Page
 
 A modern, responsive landing page showcasing a metropolitan city theme.  
 
-Built using \*\*HTML, CSS, and JavaScript\*\*, this project demonstrates a stylish hero section with video background, animated navigation menu, and clean typography.
+Built using HTML, CSS, and JavaScript, this project demonstrates a stylish hero section with video background, animated navigation menu, and clean typography.
+
+---
+
+## 📸 Preview
+![Screenshot Preview](assets/img/screenshot.png)
+
+
+## ✨ Features
+
+- Fullscreen autoplay background video
+
+- Animated menu toggle sidebar
+
+- Overlay color blend effect
+
+- Responsive typography
+
+- Social media icon links
+
+- Minimalist UI design
 
 
 
@@ -12,27 +30,7 @@ Built using \*\*HTML, CSS, and JavaScript\*\*, this project demonstrates a styli
 
 
 
-\## ✨ Features
-
-\- Fullscreen autoplay background video
-
-\- Animated menu toggle sidebar
-
-\- Overlay color blend effect
-
-\- Responsive typography
-
-\- Social media icon links
-
-\- Minimalist UI design
-
-
-
----
-
-
-
-\## 📁 Project Structure
+## 📁 Project Structure
 
 project-folder/
 
@@ -66,13 +64,13 @@ project-folder/
 
 
 
-\## 🚀 How to Run
+## 🚀 How to Run
 
-1\. Download or clone repository
+1. Download or clone repository
 
-2\. Open folder
+2. Open folder
 
-3\. Run `index.html` in browser
+3. Run `index.html` in browser
 
 
 
@@ -80,17 +78,17 @@ project-folder/
 
 
 
-\## 🛠️ Built With
+## 🛠️ Built With
 
-\- HTML5
+- HTML5
 
-\- CSS3
+- CSS3
 
-\- Vanilla JavaScript
+- Vanilla JavaScript
 
-\- Font Awesome Icons
+- Font Awesome Icons
 
-\- Google Fonts
+- Google Fonts
 
 
 
@@ -108,7 +106,7 @@ Layout adapts automatically for smaller screens using CSS media queries.
 
 
 
-\## 📄 License
+## 📄 License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
 
@@ -118,7 +116,7 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 
 
-\## 👨‍💻 Author
+## 👨‍💻 Author
 
 Sultan Achmad
 
